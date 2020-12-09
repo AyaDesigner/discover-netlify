@@ -8,4 +8,4 @@
 
 ## Deployment
 
-* Link to the website deployed on Netlify : [https://dazzling-lamarr-cfad49.netlify.app/]()
+* Link to the website deployed on Netlify : [Link](https://dazzling-lamarr-cfad49.netlify.app/)
